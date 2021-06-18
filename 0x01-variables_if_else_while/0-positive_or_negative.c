@@ -4,7 +4,8 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
-/** main Function - to generate random numbers and 
+/** 
+*   main Function - to generate random numbers and 
 *                    print relevant statements to the STDOUT
 *   Return: 0 
 */
