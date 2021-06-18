@@ -5,8 +5,9 @@
 
 /* betty style doc for function main goes there */
 /** main Function - to generate random numbers and 
- * print relevant statements to the STDOUT 
- */
+*                    print relevant statements to the STDOUT
+*   Return: 0 
+*/
 int main(void)
 {
 int n;
