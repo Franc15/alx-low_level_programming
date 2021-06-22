@@ -1,14 +1,15 @@
 /*
 * File: 0-holberton.c
 * Auth: Francis Kikulwe
+*
 */
 
 #include "holberton.h"
 
 /**
-* main - Prints "Holberton" followed by a new line
+* main - Prints "Holberton" followed by a new line.
 *
-* Return: Always 0
+* Return: Always 0.
 */
 int main(void)
 {
@@ -22,5 +23,6 @@ _putchar('t');
 _putchar('o');
 _putchar('n');
 _putchar('\n');
+
 return (0);
 }
