@@ -6,6 +6,6 @@
 * Auth: Francis Kikulwe
 */
 
-_int putchar(char c);
+int _putchar(char c);
 
 #endif
