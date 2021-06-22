@@ -4,13 +4,15 @@
 */
 
 #include "holberton.h"
+/**
+* print_alphabet - Prints the letters of alphabet
+*
+*/
 
 void print_alphabet(void)
 {
-char l;
-for(l='a';l<='z';l++)
-{
-_putchar(l);
-}
+char let;
+for(let = 'a';let <= 'z';let++)
+_putchar(let);
 _putchar('\n');
 }
