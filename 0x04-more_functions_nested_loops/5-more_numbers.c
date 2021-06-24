@@ -6,8 +6,8 @@
 */
 void more_numbers(void)
 {
-int times = 10;
-while (times-- > 0)
+int times;
+for (times = 0; times < 10; times++)
 {
 int i;
 for (i = 0; i < 15; i++)
