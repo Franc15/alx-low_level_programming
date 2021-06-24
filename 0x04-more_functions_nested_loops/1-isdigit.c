@@ -1,7 +1,7 @@
 /*
- * File: 1-isdigit.c
- * Auth: Francis Kikulwe
- */
+* File: 1-isdigit.c
+* Auth: Francis Kikulwe
+*/
 
 #include "holberton.h"
 
