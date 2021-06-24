@@ -7,7 +7,7 @@
 void more_numbers(void)
 {
 int times = 10;
-while (times--)
+while (times-- > 0)
 {
 int i;
 for (i = 0; i < 15; i++)
